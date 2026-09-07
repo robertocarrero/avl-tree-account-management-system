@@ -1,4 +1,4 @@
-# AVL Tree Student Account Management System
+# AVL Tree
 
 C++ implementation of a self-balancing AVL tree with support for insertion, deletion, search, tree traversals, and automatic rebalancing.
 
